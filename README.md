@@ -94,7 +94,7 @@ Total parameters: 9,798
 ### 1. Clone Repo
 
 ```bash
-git clone https://github.com/your-username/mnist-cnn.git
+git clone https://github.com/vikrampathare/ERA_Session05.git
 cd mnist-cnn
 ```
 
@@ -120,9 +120,7 @@ python main.py
 
 ---
 
-✨ **Author:** *Your Name*
+✨ **Author:** Vikram Pathare
 📌 Built with ❤️ using PyTorch
 
 ---
-
-Would you like me to also create a **Markdown version with emojis, badges, and maybe accuracy graphs (matplotlib plots)** so your README looks like a professional GitHub repo?
